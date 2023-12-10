@@ -3,17 +3,19 @@
 
 - 🌱 I’m currently learning **courses**
 
-- 💬 Ask me about **Flutter, Dart, HTML, CSS, Bootstrap, Javascript, React,**
+- 💬 Ask me about **Flutter, Dart, HTML, CSS, Bootstrap, Javascript, React and more..**
 
 ### PORTFOLIO
 
+**[COMING SOON]**
+
 ### MAIL
 
-- 📫 How to reach me **poitevin.bastien@gmail.com**
+- 📫 How to reach me : **poitevin.bastien@gmail.com**
 
 ### SOCIAL
 
-- 📝 I regularly write articles on [https://medium.com/@kuromaea](MEDIUM)
+- 📝 I regularly write articles on : [https://medium.com/@kuromaea](MEDIUM)
 
 <!--
 **Kuromaea/Kuromaea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
