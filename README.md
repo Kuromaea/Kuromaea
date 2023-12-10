@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Bastien Maea</h1>
-<h3 align="center">Newest frontend developer and former graphic designer at @KuromaeaStudio ❇️ 𝙄 𝙬𝙖𝙣𝙩 𝙩𝙤 𝙗𝙚 𝙖 𝙘𝙧𝙚𝙖𝙩𝙞𝙫𝙚 𝙙𝙚𝙫..</h3>
+<h3 align="left">Newest frontend developer and former graphic designer at @KuromaeaStudio ❇️ 𝙄 𝙬𝙖𝙣𝙩 𝙩𝙤 𝙗𝙚 𝙖 𝙘𝙧𝙚𝙖𝙩𝙞𝙫𝙚 𝙙𝙚𝙫..</h3>
 
 ### PORTFOLIO
 
