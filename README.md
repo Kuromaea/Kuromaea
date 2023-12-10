@@ -2,18 +2,18 @@
 <h3 align="left">Newest frontend developer and former graphic designer at @KuromaeaStudio</h3>
 
 - 🌱 I’m currently learning **courses**
-  
-- 📝 I regularly write articles on [https://medium.com/@kuromaea](https://medium.com/@kuromaea)
 
 - 💬 Ask me about **Flutter, Dart, HTML, CSS, Bootstrap, Javascript, React,**
-
-- 📫 How to reach me **poitevin.bastien@gmail.com**
 
 ### PORTFOLIO
 
 ### MAIL
 
+- 📫 How to reach me **poitevin.bastien@gmail.com**
+
 ### SOCIAL
+
+- 📝 I regularly write articles on [https://medium.com/@kuromaea](https://medium.com/@kuromaea)
 
 <!--
 **Kuromaea/Kuromaea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
