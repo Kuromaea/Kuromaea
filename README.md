@@ -15,7 +15,7 @@
 
 ### SOCIAL
 
-- 📝 I regularly write articles on : [https://medium.com/@kuromaea](MEDIUM)
+- 📝 I regularly write articles on : [MEDIUM](https://medium.com/@kuromaea)
 
 <!--
 **Kuromaea/Kuromaea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
