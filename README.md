@@ -11,7 +11,7 @@
 
 ### MAIL
 
-- 📫 How to reach me : [EMAIL](**poitevin.bastien@gmail.com**)
+- 📫 How to reach me : [EMAIL](poitevin.bastien@gmail.com)
 
 ### SOCIAL
 
