@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Bastien Maea</h1>
+<h1 align="left">Hi 👋, I'm Bastien</h1>
 <h3 align="left">Newest frontend developer and former graphic designer at @KuromaeaStudio</h3>
 
 - 🌱 I’m currently learning **courses**
