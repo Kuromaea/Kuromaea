@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **courses**
 
-- 💬 Ask me about **Flutter, Dart, HTML, CSS, Bootstrap, Javascript, React and more..**
+- 💬 Ask me about **Flutter, Dart, HTML, CSS, Javascript and more..**
 
 ### PORTFOLIO
 
