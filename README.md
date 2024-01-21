@@ -4,10 +4,10 @@
 - 🌱 I’m currently learning **courses**
 - 💬 Ask me about **Flutter, Dart, HTML, CSS, Javascript**
 
-💻 Documenting my tech journey
-🗿 Self-taught | Digital knight 🗡️
-✨ Goal : Creative developer
-🔗All my social medias below 🔽
+- 💻 Documenting my tech journey
+- 🗿 Self-taught | Digital knight 🗡️
+- ✨ Goal : Creative developer
+- 🔗All my social medias below 🔽
 
 ### PORTFOLIO
 
