@@ -1,7 +1,7 @@
 ![Banner_5](https://github.com/Kuromaea/Kuromaea/assets/41955164/aa4fc5f0-169a-4e1f-b8e0-f3e757f65081)
 
 <h1 align="left">Kuromaea • Digital Knight</h1>
-<h2 align="left">Front-end Developer based in Paris</h3>
+<h2 align="left" style="italic">Front-end Developer based in Paris</h3>
 
 - 🌱 I’m currently learning **courses**
 - 💬 Ask me about **Flutter, Dart, HTML, CSS, Javascript**
