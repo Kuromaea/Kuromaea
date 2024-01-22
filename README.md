@@ -1,11 +1,14 @@
-<h1 align="left">Hi 👋, I'm Bastien</h1>
-<h3 align="left">Newest frontend developer and former graphic designer at @KuromaeaStudio</h3>
+![Banner_5](https://github.com/Kuromaea/Kuromaea/assets/41955164/aa4fc5f0-169a-4e1f-b8e0-f3e757f65081)
+
+<h1 align="left">Hi 👋, I'm bastien.</h1>
+<h3 align="left">Front-end Developer based in Paris</h3>
+
+<h3 algin="left">Kuromaea • Digital Knight</h3>
 
 - 🌱 I’m currently learning **courses**
 - 💬 Ask me about **Flutter, Dart, HTML, CSS, Javascript**
-- 💻 Documenting my tech journey
-- 🗿 Self-taught | Digital knight 🗡️
-- ✨ Goal : Creative developer
+- 💻 Documenting my **tech journey**
+- ✨ Goal : **Creative developer**
 
 ### PORTFOLIO
 
