@@ -3,7 +3,7 @@
 <h1 align="left">Kuromaea • Digital Knight</h1>
 <h2 align="left">Front-end Developer based in Paris</h3>
 
-- 🌱 I’m currently learning **courses**
+- 🌱 I’m currently learning **courses** about JavaScript
 - 💬 Ask me about **Flutter, Dart, HTML, CSS, Javascript**
 - 💻 Documenting my **tech journey** on Instagram  
 - ✨ Goal : **Creative developer**
