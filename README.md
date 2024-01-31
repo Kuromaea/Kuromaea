@@ -9,11 +9,11 @@
 
 ## Technologies
 
-- HTML
-- CSS
-- JavaScript
-- Dart
-- Flutter
+- <code>HTML</code>
+- <code>CSS</code>
+- <code>JavaScript</code>
+- <code>Dart</code>
+- <code>Flutter</code>
 
 ## Portfolio
 
