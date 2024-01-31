@@ -7,15 +7,24 @@
 - 💻 Documenting my **tech journey** on Instagram  
 - ✨ Goal : **Creative developer**
 
-## Technologies
+## 🛠 Technologies
 
+### Web Developement
 - <code>HTML</code>
 - <code>CSS</code>
 - <code>JavaScript</code>
+
+### Mobile Developement
 - <code>Dart</code>
 - <code>Flutter</code>
 
-## Portfolio
+### Tools
+- <code>Git</code>
+- <code>Gitlab</code>
+- <code>Markdown</code>
+- <code>VSCode</code>
+
+## 🖼 Portfolio
 
 **[COMING SOON]**
 
