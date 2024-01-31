@@ -7,13 +7,15 @@
 - 💻 Documenting my **tech journey** on Instagram  
 - ✨ Goal : **Creative developer**
 
-## Technologies:
+## Technologies
 
 - HTML
 - CSS
 - JavaScript
+- Dart
+- Flutter
 
-### Portfolio
+## Portfolio
 
 **[COMING SOON]**
 
