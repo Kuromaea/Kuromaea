@@ -2,6 +2,10 @@
 
 # Front-end Developer based in Paris
 
+##### My name is Bastien, I live in Paris, and I am 30 years old. I am currently a Front-end developer, but I aspire to become a creative developer.
+
+## 🔄 Process
+
 - 🌱 I’m currently learning **courses** about JavaScript
 - 💬 Ask me about **Flutter, Dart, HTML, CSS, Javascript**
 - 💻 Documenting my **tech journey** on Instagram  
@@ -9,16 +13,17 @@
 
 ## 🛠 Technologies
 
-### Web Developement
+### Web Developement 🟢
+
 - <code>HTML</code>
 - <code>CSS</code>
 - <code>JavaScript</code>
 
-### Mobile Developement
+### Mobile Developement 🟡
 - <code>Dart</code>
 - <code>Flutter</code>
 
-### Tools
+### Tools 🔵
 - <code>Git</code>
 - <code>Gitlab</code>
 - <code>Markdown</code>
