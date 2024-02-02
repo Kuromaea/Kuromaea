@@ -4,7 +4,7 @@
 
 ##### My name is Bastien, I live in Paris, and I am 30 years old. I am currently a Front-end developer, but I aspire to become a creative developer.
 
-## 🔄 Learning
+## 🔄 LifeStyle
 
 - 🌱 I’m currently learning **courses** about JavaScript
 - 💬 Ask me about **Flutter, Dart, HTML, CSS, Javascript**
