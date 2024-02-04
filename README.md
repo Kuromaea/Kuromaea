@@ -20,14 +20,14 @@
 - <code>JavaScript</code>
 
 ### Mobile Developement 🟡
+
 - <code>Dart</code>
 - <code>Flutter</code>
 
 ### Tools 🔵
+
 - <code>Git</code>
 - <code>Gitlab</code>
-- <code>Markdown</code>
-- <code>VSCode</code>
 
 ## 🖼 Portfolio
 
