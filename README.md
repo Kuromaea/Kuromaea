@@ -2,7 +2,7 @@
 
 # Front-end Developer based in Paris
 
-##### My name is Bastien, I live in Paris, and I am 30 years old. I am currently a Front-end developer, but I aspire to become a creative developer.
+#### My name is Bastien, I live in Paris, and I am 30 years old. I am currently a Front-end developer, but I aspire to become a creative developer.
 
 ## 🔄 LifeStyle
 
