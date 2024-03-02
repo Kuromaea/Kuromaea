@@ -13,18 +13,18 @@
 
 ## 🛠 Technologies
 
-### Web Developement ✨
+### Web Developement 🔵
 
 - <code>HTML</code>
 - <code>CSS</code>
 - <code>JavaScript</code>
 
-### Mobile Developement ✨
+### Mobile Developement 🟢
 
 - <code>Dart</code>
 - <code>Flutter</code>
 
-### Tools ✨
+### Tools 🟡
 
 - <code>Git</code>
 - <code>Gitlab</code>
