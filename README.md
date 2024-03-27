@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **courses** about JavaScript
 - 💬 Ask me about **Flutter, Dart, HTML, CSS, Javascript**
 - 💻 Documenting my **tech journey** on Instagram  
-- ✨ Goals: **Creative developer**
+- ✨ Goals : **Creative developer**
 
 ## 🛠 Technologies
 
